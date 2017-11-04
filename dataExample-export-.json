@@ -1,0 +1,21 @@
+{
+  "balance" : 0,
+  "products" : {
+    "0001" : {
+      "inStock" : 10,
+      "name" : "iPhone X 64GB Silver"
+    },
+    "0002" : {
+      "inStock" : 10,
+      "name" : "iPhone X 256GB Silver"
+    },
+    "0003" : {
+      "inStock" : 10,
+      "name" : "iPhone X 64GB Space Gray"
+    },
+    "0004" : {
+      "inStock" : 10,
+      "name " : "iPhone X 256GB Space Gray"
+    }
+  }
+}
